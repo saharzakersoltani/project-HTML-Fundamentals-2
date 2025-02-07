@@ -7,3 +7,11 @@ This project was created to learn and practice HTML concepts. It covers basic HT
 
 ## Technologies Used
 - HTML
+
+## 🚀 Live Demo  
+You can view the live version of this project here:  
+
+🔗 [Live Demo](https://saharzakersoltani.github.io/project-HTML-Fundamentals-2/)  
+
+Feel free to explore and let me know your thoughts! 😊  
+
